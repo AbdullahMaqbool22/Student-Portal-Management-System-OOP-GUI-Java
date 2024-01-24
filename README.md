@@ -1,6 +1,6 @@
 # Student Portal Management System
 
-This project implements a Student Portal Management System in Java. It includes functionalities for managing students, courses, grades, attendance, and fees.
+This Java project implements a Student Portal Management System, providing functionalities for managing students, courses, grades, attendance, and fees.
 
 ## Table of Contents
 
@@ -50,10 +50,12 @@ The Student Portal Management System provides both user and admin panels. Users 
 ```bash
 javac com/project/*.java
 java com.project.Main
+```
 
- ## Contributing
+## Contributing
+
 Contributions are welcome! If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
 
- ## License
-This project is licensed under the [Eclipse License].
+## License
 
+This project is licensed under the [License](LICENSE).
